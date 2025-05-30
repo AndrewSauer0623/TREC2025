@@ -1,0 +1,9 @@
+python-dotenv
+openai
+tqdm
+numpy
+pandas
+scikit-learn
+torch
+transformers==4.52.3
+faiss-cpu  # or faiss-gpu if you want GPU support
