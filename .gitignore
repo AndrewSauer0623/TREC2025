@@ -1,2 +1,6 @@
 .env
 output.csv
+config.json
+model.safetensors
+embedding_matrix.npy
+semantic_index.faiss
