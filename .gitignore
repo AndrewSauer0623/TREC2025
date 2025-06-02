@@ -4,3 +4,5 @@ config.json
 model.safetensors
 embedding_matrix.npy
 semantic_index.faiss
+msmarco_v2.1_doc_00.json
+trec-2024-lateral-reading-task2-baseline-documents.jsonl
