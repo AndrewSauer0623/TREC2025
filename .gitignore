@@ -7,3 +7,7 @@ msmarco_v2.1_doc_00.json
 trec-2024-lateral-reading-task2-baseline-documents.jsonl
 2024-question-assessment.txt
 offsets.npy
+article_questions.csv
+bad_questions.csv
+ok_questions.csv
+output1.csv
